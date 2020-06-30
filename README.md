@@ -2,6 +2,10 @@
 
 This application produces a report based on a single Apache log file.
 
+## Build status
+
+[![Build Status](https://travis-ci.com/mhightower/apache-log-report.svg?branch=master)](https://travis-ci.com/mhightower/apache-log-report)
+
 ## How to use?
 
 `python3 apache_log_process.py <apache_log>`
